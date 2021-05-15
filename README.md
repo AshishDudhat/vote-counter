@@ -5,7 +5,7 @@ Angular
 -------------
 API - https://jsonplaceholder.typicode.com/photos
 ---------------------------------------------------
-Create an application in Angular/React to create a Grid of the
+Create an application in Angular to create a Grid of the
 pictures(10 only). The application is similar to voting images.
 - Create grid of images from the above API.
 - Clicking on an image will count 1 vote to that particular image
